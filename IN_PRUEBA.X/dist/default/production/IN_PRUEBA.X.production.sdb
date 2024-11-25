@@ -1,0 +1,64 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F628A ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.46\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.46\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.46\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"19 C:\Users\golwe\MPLABXProjects\IN_PRUEBA.X\main.c
+[v _initialize initialize `(v  1 e 1 0 ]
+"40
+[v _main main `(v  1 e 1 0 ]
+"48
+[v _isr isr `II(v  1 e 1 0 ]
+"59 C:/Program Files/Microchip/MPLABX/v6.15/packs/Microchip/PIC16Fxxx_DFP/1.4.149/xc8\pic\include\proc\pic16f628a.h
+[v _TMR0 TMR0 `VEuc  1 e 1 @1 ]
+"166
+[v _PORTA PORTA `VEuc  1 e 1 @5 ]
+"228
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"767
+[v _CMCON CMCON `VEuc  1 e 1 @31 ]
+"907
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"969
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1426
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"1450
+[v _PS0 PS0 `VEb  1 e 0 @1032 ]
+"1453
+[v _PS1 PS1 `VEb  1 e 0 @1033 ]
+"1456
+[v _PS2 PS2 `VEb  1 e 0 @1034 ]
+"1459
+[v _PSA PSA `VEb  1 e 0 @1035 ]
+"1546
+[v _T0CS T0CS `VEb  1 e 0 @1037 ]
+"1549
+[v _T0IE T0IE `VEb  1 e 0 @93 ]
+"1552
+[v _T0IF T0IF `VEb  1 e 0 @90 ]
+"17 C:\Users\golwe\MPLABXProjects\IN_PRUEBA.X\main.c
+[v _pwmCounter pwmCounter `ui  1 e 2 0 ]
+"40
+[v _main main `(v  1 e 1 0 ]
+{
+"46
+} 0
+"19
+[v _initialize initialize `(v  1 e 1 0 ]
+{
+"37
+} 0
+"48
+[v _isr isr `II(v  1 e 1 0 ]
+{
+"72
+} 0
